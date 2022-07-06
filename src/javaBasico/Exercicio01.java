@@ -14,6 +14,6 @@ public class Exercicio01 {
 
         int resultado = número1 + número2;
 
-        System.out.println("a soma dos dois números é: " + resultado);
+        System.out.println("A soma dos dois números é: " + resultado);
     }
 }
